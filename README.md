@@ -41,20 +41,6 @@ By completing these labs, you will learn how to:
 
 ---
 
-## Lab Scope and Scenarios
-
-The labs include hands-on exercises covering the following scenarios:
-
-- SaaS-to-SaaS data synchronization
-- Webhook-triggered integration flows
-- Event-driven data pipelines with Kafka
-- Hybrid control plane and runtime deployment
-- Centralized monitoring and operational dashboards
-
-Each lab can be completed independently, while also contributing to an end-to-end integration story.
-
----
-
 ## Prerequisites
 
 Before starting the labs, ensure you have:
