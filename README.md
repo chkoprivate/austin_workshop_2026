@@ -1,5 +1,5 @@
-## webMethods Hybrid Integration Hands-On Labs - Austin 2026  
-##   
+# webMethods Hybrid Integration Hands-On Labs - Austin 2026  
+
 This repository provides a collection of hands-on labs designed to teach practical integration skills using IBM webMethods Hybrid Integration (IWHI) and related components. The labs cover key integration patterns such as low-code flow/workflow design, event streaming with Kafka, hybrid runtime management, and end-to-end monitoring.  
   
 ## Overview  
