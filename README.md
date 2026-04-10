@@ -6,26 +6,27 @@ The labs are designed for enablement workshops, technical training, and hands-on
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Lab Scope and Scenarios](#lab-scope-and-scenarios)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
-- [Expected Outcomes](#expected-outcomes)
-- [Key Takeaways](#key-takeaways)
-- [Target Audience](#target-audience)
-- [Support and Feedback](#support-and-feedback)
-
----
-
 ## Overview
 
 These hands-on labs focus on building **real-world hybrid integration solutions** that combine cloud services, on-premise systems, and event-driven architectures.
 
 Participants will work with low-code integration tools, runtime management, event streaming, and observability capabilities to deliver production-ready integration flows.
+
+---
+
+## Labs Index
+
+Navigate directly to each hands-on lab:
+
+- [01 – AI-powered Integration Agent](hands-on/01_lab_AI_Lab_AI_powered_Integration_Agent/README.md)
+- [02 – App Connect Integration Agent](hands-on/02_lab_AI_Lab_App_Connect_Integration_Agent/README.md)
+- [04 – Flow and Workflow Programming](hands-on/04_lab_Flow_and_Workflow_Programming/README.md)
+- [05 – IWHI On-Premises Meets AI](hands-on/05_lab_IWHI_on_premises_meets_AI/)
+- [06 – Unified Experience API Programming](hands-on/06_lab_Unified_Experience_API_Programming/)
+- [07 – Unified Experience Event Automation](hands-on/07_lab_Unified_Experience_Event_Automation/README.md)
+- [08 – Hybrid Control Plane and End-to-End Monitoring](hands-on/08_lab_Hybrid_Control_Plane_and_End_to_End_Monitoring/README.md)
+- [09 – End-to-End Monitoring](hands-on/09_lab_End_to_End_Monitoring/README.md)
+- [10 – Observability Agent (AI Lab)](hands-on/10_lab_AI_Lab_Observability_Agent/)
 
 ---
 
@@ -50,71 +51,19 @@ Before starting the labs, ensure you have:
 - Access to an IBM webMethods Hybrid Integration environment
 - A modern web browser and reliable internet access
 
-Prior experience with webMethods is helpful but not required.
-
 ---
 
 ## Getting Started
 
-1. Clone or download this repository to your local environment.
-2. Review the lab descriptions and objectives.
-3. Verify that all prerequisite accounts and environments are available.
-4. Follow the labs in the recommended order for a progressive learning experience.
-
-Each lab includes step-by-step instructions and validation checkpoints.
-
----
-
-## Repository Structure
-
-The repository is organized as follows:
-
-- Each lab resides in its own directory
-- Lab folders include instructions, configuration details, and validation steps
-- Shared assets and reference material are provided where applicable
-
-Refer to each lab's README for specific guidance.
-
----
-
-## Expected Outcomes
-
-After completing all labs, participants will be able to:
-
-- Build and deploy hybrid integration flows
-- Implement event-driven architectures using Kafka
-- Manage hybrid runtimes effectively
-- Monitor and troubleshoot integrations end-to-end
-- Apply operational and governance best practices
-
----
-
-## Key Takeaways
-
-- Hybrid integration enables flexible deployment across cloud and on-premise environments
-- Low-code development accelerates delivery while maintaining governance
-- Event-driven architectures improve scalability and responsiveness
-- Observability is essential for operating integrations in production
-- AI-assisted development can significantly reduce build and maintenance effort
+1. Clone or download this repository.
+2. Review the labs in the order listed above.
+3. Follow the instructions in each lab's README.
 
 ---
 
 ## Target Audience
 
-This repository is intended for:
-
 - Integration developers and architects
 - Technical consultants and system integrators
 - Enablement and training audiences
 - Workshop and bootcamp participants
-
----
-
-## Support and Feedback
-
-For issues, feedback, or improvement suggestions:
-
-- Use the repository issue tracker
-- Share feedback during hands-on sessions
-
-Your feedback helps improve the learning experience for future participants.
