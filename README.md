@@ -1,46 +1,134 @@
-# webMethods Hybrid Integration Hands-On Labs - Austin 2026  
+# webMethods Hybrid Integration Hands-On Labs – Austin 2026
 
-This repository provides a collection of hands-on labs designed to teach practical integration skills using IBM webMethods Hybrid Integration (IWHI) and related components. The labs cover key integration patterns such as low-code flow/workflow design, event streaming with Kafka, hybrid runtime management, and end-to-end monitoring.  
-  
-## Overview  
-  
-Learners will build real-world integration solutions including SaaS synchronization, webhook-triggered flows, event-driven pipelines, and hybrid control plane deployments. The labs emphasize operational visibility through transaction tracing and monitoring dashboards, and leverage AI-assisted flow creation for accelerated development.  
-Included Labs  
-  
--     Lab 1: AI-powered Integration Agent syncing HubSpot deals to Salesforce opportunities  
--     Lab 2: App Connect Integration Agent automating Salesforce contact tasks in monday.com  
--     Lab 4: Flow & Workflow Programming for synchronous order-to-shipment processing  
--     Lab 6: API Management publishing AI press releases RSS feed as a managed REST API  
--     Lab 7: Event Automation producing and filtering JSON order events with Kafka  
--     Lab 8: Hybrid Control Plane deploying and managing local runtimes with monitoring  
--     Lab 9: End-to-End Monitoring with Success/Failure Transaction Workflow using transaction IDs  
-  
-## Prerequisites  
-  
--     IBM webMethods Hybrid Integration tenant/account with appropriate permissions  
--     IBMid credentials for platform access  
--     Access to lab project namespaces and ability to import/deploy packages  
--     SaaS accounts and API tokens for connectors (HubSpot, Salesforce, monday.com) where applicable  
--     Kafka credentials and certificates for event streaming labs  
-  
-## Getting Started  
-  
--     Clone the repository and review individual lab folders.  
--     Confirm tenant URLs, credentials, and access rights.  
--     Import provided Flow services and workflow packages from GitHub repositories.  
--     Follow lab instructions to configure connectors, deploy flows, and register runtimes.  
--     Use unique transaction IDs for traceability and validate monitoring outputs.  
-  
-## Expected Outcomes  
-  
--     Functional low-code integrations synchronizing SaaS systems and exposing APIs  
--     Event-driven pipelines producing and processing JSON messages via Kafka  
--     Hybrid runtime deployments managed via a centralized control plane  
--     Robust workflows with error handling and end-to-end traceability using transaction IDs  
-  
-## Key Takeaways  
-  
--     Integration Agent accelerates flow creation but requires manual refinement  
--     Transaction IDs enable grouping and tracing of related transactions across runtimes  
--     Secure credential management (OAuth tokens, SCRAM, certificates) is critical  
--     Centralized hybrid control plane and monitoring enhance operational visibility  
+Welcome to the **webMethods Hybrid Integration Hands-On Labs** repository. This repository provides practical, guided labs for learning how to design, deploy, and operate modern hybrid integrations using **IBM webMethods Hybrid Integration (IWHI)**.
+
+The labs are designed for enablement workshops, technical training, and hands-on learning environments.
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
+- [Lab Scope and Scenarios](#lab-scope-and-scenarios)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Repository Structure](#repository-structure)
+- [Expected Outcomes](#expected-outcomes)
+- [Key Takeaways](#key-takeaways)
+- [Target Audience](#target-audience)
+- [Support and Feedback](#support-and-feedback)
+
+---
+
+## Overview
+
+These hands-on labs focus on building **real-world hybrid integration solutions** that combine cloud services, on-premise systems, and event-driven architectures.
+
+Participants will work with low-code integration tools, runtime management, event streaming, and observability capabilities to deliver production-ready integration flows.
+
+---
+
+## Learning Objectives
+
+By completing these labs, you will learn how to:
+
+- Design low-code integration flows and workflows
+- Implement event-driven integrations using Apache Kafka
+- Deploy and manage integrations across hybrid runtimes
+- Implement end-to-end transaction tracing and monitoring
+- Apply best practices for scalable and maintainable integration solutions
+
+---
+
+## Lab Scope and Scenarios
+
+The labs include hands-on exercises covering the following scenarios:
+
+- SaaS-to-SaaS data synchronization
+- Webhook-triggered integration flows
+- Event-driven data pipelines with Kafka
+- Hybrid control plane and runtime deployment
+- Centralized monitoring and operational dashboards
+
+Each lab can be completed independently, while also contributing to an end-to-end integration story.
+
+---
+
+## Prerequisites
+
+Before starting the labs, ensure you have:
+
+- Fundamental knowledge of integration concepts (APIs, messaging, data transformation)
+- Basic familiarity with cloud and hybrid architectures
+- Access to an IBM webMethods Hybrid Integration environment
+- A modern web browser and reliable internet access
+
+Prior experience with webMethods is helpful but not required.
+
+---
+
+## Getting Started
+
+1. Clone or download this repository to your local environment.
+2. Review the lab descriptions and objectives.
+3. Verify that all prerequisite accounts and environments are available.
+4. Follow the labs in the recommended order for a progressive learning experience.
+
+Each lab includes step-by-step instructions and validation checkpoints.
+
+---
+
+## Repository Structure
+
+The repository is organized as follows:
+
+- Each lab resides in its own directory
+- Lab folders include instructions, configuration details, and validation steps
+- Shared assets and reference material are provided where applicable
+
+Refer to each lab's README for specific guidance.
+
+---
+
+## Expected Outcomes
+
+After completing all labs, participants will be able to:
+
+- Build and deploy hybrid integration flows
+- Implement event-driven architectures using Kafka
+- Manage hybrid runtimes effectively
+- Monitor and troubleshoot integrations end-to-end
+- Apply operational and governance best practices
+
+---
+
+## Key Takeaways
+
+- Hybrid integration enables flexible deployment across cloud and on-premise environments
+- Low-code development accelerates delivery while maintaining governance
+- Event-driven architectures improve scalability and responsiveness
+- Observability is essential for operating integrations in production
+- AI-assisted development can significantly reduce build and maintenance effort
+
+---
+
+## Target Audience
+
+This repository is intended for:
+
+- Integration developers and architects
+- Technical consultants and system integrators
+- Enablement and training audiences
+- Workshop and bootcamp participants
+
+---
+
+## Support and Feedback
+
+For issues, feedback, or improvement suggestions:
+
+- Use the repository issue tracker
+- Share feedback during hands-on sessions
+
+Your feedback helps improve the learning experience for future participants.
