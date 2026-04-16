@@ -23,15 +23,15 @@
 * Active IWHI (IBM webMethods Hybrid Integration) SaaS account.  
 * IBMid for login.  
 * API key  = azI6NzE1NjIzNTItYjdjOS00ZmY2LWEyODMtM2NiYzQwZGE5MjM3OlRaWWFiVVZkdmplanVqUWdubUxJZ1E1eDdhRWd0ZWJ3bk5tcXZ6ZEIxdTA9
-**Environment & Tools**  
+##Environment & Tools 
 * IWHI SaaS tenant with webMethods Integration, API Connect, webMethods API Gateway enabled.  
 * Browser access to TechZone reservation details.  
-**Configuration & Assets**  
+##Configuration & Assets  
 * Resource naming convention: ST_<Four‑Letters‑Name‑Abbreviation>_<Country‑Two‑Letters‑Code> (e.g., ST_JODO_US_Project).  
 * RSS feed URL: https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss.  
 * API key azI6NzE1NjIzNTItYjdjOS00ZmY2LWEyODMtM2NiYzQwZGE5MjM3OlRaWWFiVVZkdmplanVqUWdubUxJZ1E1eDdhRWd0ZWJ3bk5tcXZ6ZEIxdTA9 
 * Ability to download OpenAPI JSON from project APIs tab.  
-**Outcome for the Learner**  
+##Outcome for the Learner
 * At the end of this exercise, the learner will have a working low‑code integration that reads AI press releases from an RSS feed, normalizes and maps the data into JSON, and exposes it as a REST endpoint callable via HTTP.  
 * The learner will publish an OpenAPI specification and register the API in an API gateway (API Connect and/or webMethods API Gateway) with header‑based API key configuration.  
 * This reinforces skills in low‑code integration design, data transformation, webhook‑driven APIs, and API lifecycle management, and can be reused for other feeds or backend integrations.  
