@@ -1,0 +1,121 @@
+openapi: 3.0.1
+
+info:
+  title: Account-Profile API
+  version: 1.0.0
+  description: >
+    API for managing and retrieving customer account profiles.
+
+servers:
+  - url: https://api.example.com
+    description: Production API endpoint
+
+tags:
+  - name: Customer
+    description: Customer account and profile operations
+    x-mcp-object-name: Customer
+
+paths:
+  /customers:
+    get:
+      tags:
+        - Customer
+      summary: Get customers
+      description: Retrieve a list of customer profiles.
+      operationId: getCustomers
+
+      security:
+        - oauth2:
+            - customer:read
+
+      responses:
+        '200':
+          description: Successful retrieval of customers
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetCustomersMcpResponse'
+
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+        '500':
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+components:
+  securitySchemes:
+    oauth2:
+      type: oauth2
+      flows:
+        clientCredentials:
+          tokenUrl: https://auth.example.com/oauth/token
+          scopes:
+            customer:read: Read customer information
+            wxmcp.server: Access MCP server
+
+  schemas:
+    GetCustomersMcpResponse:
+      type: object
+      required:
+        - result
+      properties:
+        result:
+          type: object
+          required:
+            - customers
+          properties:
+            customers:
+              type: array
+              items:
+                $ref: '#/components/schemas/Customer'
+
+    Customer:
+      type: object
+      required:
+        - id
+        - first-name
+        - last-name
+      properties:
+        id:
+          type: string
+        first-name:
+          type: string
+        last-name:
+          type: string
+        company-name:
+          type: string
+
+    ErrorResponse:
+      type: object
+      required:
+        - error
+      properties:
+        error:
+          type: object
+          properties:
+            code:
+              type: integer
+            message:
+              type: string
