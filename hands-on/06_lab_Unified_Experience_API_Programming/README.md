@@ -22,14 +22,14 @@
 **Accounts & Access**  
 * Active IWHI (IBM webMethods Hybrid Integration) SaaS account.  
 * IBMid for login.  
-* API key  = azI6NzE1NjIzNTItYjdjOS00ZmY2LWEyODMtM2NiYzQwZGE5MjM3OlRaWWFiVVZkdmplanVqUWdubUxJZ1E1eDdhRWd0ZWJ3bk5tcXZ6ZEIxdTA9
+* API key  = will be provided during the session
 ## Environment & Tools 
 * IWHI SaaS tenant with webMethods Integration, API Connect, webMethods API Gateway enabled.  
 * Browser access to TechZone reservation details.  
 ## Configuration & Assets  
 * Resource naming convention: ST_<Four‑Letters‑Name‑Abbreviation>_<Country‑Two‑Letters‑Code> (e.g., ST_JODO_US_Project).  
 * RSS feed URL: https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss.  
-* API key azI6NzE1NjIzNTItYjdjOS00ZmY2LWEyODMtM2NiYzQwZGE5MjM3OlRaWWFiVVZkdmplanVqUWdubUxJZ1E1eDdhRWd0ZWJ3bk5tcXZ6ZEIxdTA9 
+* API key <provided api-key>>
 * Ability to download OpenAPI JSON from project APIs tab.  
 ## Outcome for the Learner
 * At the end of this exercise, the learner will have a working low‑code integration that reads AI press releases from an RSS feed, normalizes and maps the data into JSON, and exposes it as a REST endpoint callable via HTTP.  
