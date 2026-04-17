@@ -16,6 +16,7 @@ Navigate directly to each hands-on lab:
   
 - [01 – AI-powered Integration Agent](hands-on/01_lab_AI_Lab_AI_powered_Integration_Agent/README.md)  
 - [02 – App Connect Integration Agent](hands-on/02_lab_AI_Lab_App_Connect_Integration_Agent/README.md)  
+- [03 – API Agent lab](hands-on/03_lab_AI_Lab_API_Agent/README.md)  
 - [04 – Flow and Workflow Programming](hands-on/04_lab_Flow_and_Workflow_Programming/README.md)  
 - [05 – IWHI On-Premises Meets AI](hands-on/05_lab_IWHI_on_premises_meets_AI/)  
 - [06 – Unified Experience API Programming](hands-on/06_lab_Unified_Experience_API_Programming/)  
