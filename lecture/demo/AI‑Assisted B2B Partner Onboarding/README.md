@@ -1,15 +1,17 @@
-# webMethods Hybrid Integration Demo Section – Austin 2026  
+# webMethods Hybrid Integration Click-trough Demo Section  
   
-Welcome to the **webMethods Hybrid Integration Demo Sectin** repository. This repository provides practical, guided labs for learning how to design, deploy, and operate modern hybrid integrations using **IBM webMethods Hybrid Integration (IWHI)**.  
+Welcome to the **webMethods Hybrid Integration Click-trough Demo Section** repository. This repository provides click-through demos for **IBM webMethods Hybrid Integration (IWHI)** features those are not covered as hands-on in this workshop.
   
-The labs are designed for enablement workshops, technical training, and hands-on learning environments.  
-⸻  
-## Click-Trough Demos  
-  
-### AI‑Assisted B2B Partner Onboarding
+## AI‑Assisted B2B Partner Onboarding
 [Elevator Pitch](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
 [Demo Script](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
 [Click-trough](https://demo-now.techzone.ibm.com/psl/t3y02oz?g=cmnefp2cz000000ilhput0dtj&s=0)
 
 ⸻  
+
+  
+## AI-Assisted End-To-End Monitoring (MFT)
+[Elevator Pitch](https://ibm.seismic.com/Link/Content/DCRg244b3QVbRG2RdMdh3dRXBD9j)  
+[Demo Script](https://ibm.seismic.com/Link/Content/DCG3H8fqDQQR38QQC9Fc9hmQM43d)  
+[Click-trough](https://demo-now.techzone.ibm.com/psl/8m5802f4?g=cmng7byay000000il5b2iotsf&s=0)
 
