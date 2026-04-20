@@ -4,8 +4,8 @@ Welcome to the **webMethods Hybrid Integration Click-trough Demo Section** repos
 
   
 ## Demos
-[AI‑Assisted B2B Partner Onboarding](AI‑Assisted_B2B_Partner_Onboarding/README.md)
-[AI-Assisted End-To-End Monitoring (MFT)](AI-Assisted_End-To-End_Monitoring_(MFT)/README.md)  
+- [AI‑Assisted B2B Partner Onboarding](AI‑Assisted_B2B_Partner_Onboarding/README.md)
+- [AI-Assisted End-To-End Monitoring (MFT)](AI-Assisted_End-To-End_Monitoring_(MFT)/README.md)  
 
 
 
