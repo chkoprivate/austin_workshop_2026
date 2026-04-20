@@ -11,7 +11,7 @@ These hands-on labs focus on building **real-world hybrid integration solutions*
 Participants will work with low-code integration tools, runtime management, event streaming, and observability capabilities to deliver production-ready integration flows.  
 ⸻  
 
-## Hans-On Agenda 
+## Hands-On Agenda 
 Check the [Hands-On Agenda](agenda/README.md)
 
 ## Labs Index  
