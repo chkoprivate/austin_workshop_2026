@@ -1,7 +1,5 @@
 # Lab - 9 webMethods Integration End-to-End Monitoring  
   
-#Austin** #Hands-On #appIntegration **  
-  
 ## Use Case (What is being implemented?)  
 This lab guides learners through building robust, traceable integration workflows and Flow services in IBM webMethods Integration, enhanced with end‑to‑end monitoring. It addresses the need for operational visibility, performance measurement, and failure tracking across distributed integration assets in cloud, edge, or hybrid environments. The scenario models transaction‑based business processes requiring compliance monitoring and performance alerts. The integration pattern is a distributed workflow invoking multiple Flow services across runtimes, with custom transaction IDs for traceability and error handling.  
   
