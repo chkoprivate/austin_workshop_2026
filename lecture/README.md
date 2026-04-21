@@ -11,30 +11,27 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 ## Introduction of AI‑powered Integration Overview
 ## How to demo IWHI and its components?
 ### AI‑Assisted B2B
-- [AI‑Assisted B2B Partner Onboarding](AI‑Assisted_B2B_Partner_Onboarding/README.md)
+- [AI‑Assisted B2B Partner Onboarding](demo/AI‑Assisted_B2B_Partner_Onboarding/README.md)
 ### AI‑Assisted MFT
-- [AI-Assisted End-To-End Monitoring (MFT)](AI-Assisted_End-To-End_Monitoring_(MFT)/README.md)  
+- [AI-Assisted End-To-End Monitoring (MFT)](demo/AI-Assisted_End-To-End_Monitoring_(MFT)/README.md)  
 
 # Objectives
-
 By attending these lectures, participants will:
-
-    - Understand IWHI vision, strategy, and positioning.
-    - Learn about IWHI architecture and typical use cases.
-    - Explore AI capabilities within IWHI.
-    - Gain techniques for effective demos and audience engagement.
-    - Be introduced to the unified experience and hybrid control plane concepts.
+- Understand IWHI vision, strategy, and positioning.
+- Learn about IWHI architecture and typical use cases.
+- Explore AI capabilities within IWHI.
+- Gain techniques for effective demos and audience engagement.
+- Be introduced to the unified experience and hybrid control plane concepts.
 
 # Presenters
-
-    - Dave Pemberton
-    - Mike Thompson
-    - Rob Tiberio
-    - Matthew Barnes
-    - Tom Campbell
-    - Brian Wilson
-    - Joel Gomez
-    - Maik Szmatulewicz
+- Dave Pemberton
+- Mike Thompson
+- Rob Tiberio
+- Matthew Barnes
+- Tom Campbell
+- Brian Wilson
+- Joel Gomez
+- Maik Szmatulewicz
 
 
 
