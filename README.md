@@ -8,13 +8,13 @@ The labs are designed for enablement workshops, technical training, and hands-on
 
 The [lecture](lecture//README.md)  part contains of all slides and links to demos.
   
-The  [hands-on](hands-on//README.md) labs part focus on building **real-world hybrid integration solutions** that combine cloud services, on-premise systems, and event-driven architectures.  
+The [hands-on](hands-on//README.md) labs part focus on building **real-world hybrid integration solutions** that combine cloud services, on-premise systems, and event-driven architectures.  
   
 Participants will work with low-code integration tools, runtime management, event streaming, and observability capabilities to deliver production-ready integration flows.  
 ⸻  
 
 ##  Agenda 
-Check the [Hands-On Agenda](agenda/README.md)
+Please check the [Agenda](agenda/README.md) on regular base to be informed on short notice about changes.
 
 ⸻  
 ## Getting Started  
