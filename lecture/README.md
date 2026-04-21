@@ -10,10 +10,14 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 ## IWHI and AI
 ## Introduction of AI‑powered Integration Overview
 ## How to demo IWHI and its components?
-### AI‑Assisted B2B
-- [AI‑Assisted B2B Partner Onboarding](demo/AI‑Assisted_B2B_Partner_Onboarding/README.md)
-### AI‑Assisted MFT
-- [AI-Assisted End-To-End Monitoring (MFT)](demo/AI-Assisted_End-To-End_Monitoring_(MFT)/README.md)  
+### AI‑Assisted B2B Partner Onboarding
+- [[Elevator Pitch](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
+- [Demo Script](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
+- [Click-trough](https://demo-now.techzone.ibm.com/psl/t3y02oz?g=cmnefp2cz000000ilhput0dtj&s=0)
+### AI-Assisted End-To-End Monitoring (MFT)
+- [Elevator Pitch](https://ibm.seismic.com/Link/Content/DCRg244b3QVbRG2RdMdh3dRXBD9j)  
+- [Demo Script](https://ibm.seismic.com/Link/Content/DCG3H8fqDQQR38QQC9Fc9hmQM43d)  
+[- Click-trough](https://demo-now.techzone.ibm.com/psl/8m5802f4?g=cmng7byay000000il5b2iotsf&s=0) 
 
 # Objectives
 By attending these lectures, participants will:
