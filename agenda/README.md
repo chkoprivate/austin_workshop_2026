@@ -1,51 +1,135 @@
-# Hands-On labs Agenda  
-  
-#Austin #Hands-On   
-  
-## Day 1 (afternoon)  
-  
-### 2:00pm — AI Lab - AI-powered Integration   
-- You will create a flow using the Integration Agent capability in the IWHI webMethods Integration environment.  
-- You will test and explore your integration flow with HubSpot and Salesforce CRM.  
-- You will learn how to use IBM webMethods Hybrid Integration to increase business agility by delivering business needs faster with flexible, dynamic, and reusable integrations.  
-### 2:45 pm — AI Lab - App Connect  Integration Agent   
-- You will create a flow using the Integration Agent capability in IWHI App Connect environment.  
-- You will test and explore your integration flow with monday.com board and Salesforce CRM.  
- - You will edit and improve your flow to read contacts in Salesforce.  
-### 4:00 pm — AI Lab - API Agent   
-- You will install and configure the API Agent to prepare your development environment.  
-- You will create, enhance, validate, and remediate an OpenAPI specification using the API Agent (adding descriptions, examples, and addressing governance and validation issues).  
- - You will generate API code from the specification, deploy the resulting application, and create a draft API on API Connect using the API Agent.  
-  
-## Day 2 (morning)  
-  
-### 8:45 am — Flow and Workflow Programming (Lab)  
-- You will be enabled to practice and demonstrate webMethods Integration capabilities such as implementing Integration Projects for development, organizing integration assets like workflows, flow services, and packages, and distributing packages to Cloud Runtime or Edge instances for hybrid integration.  
-- You will learn how to create and use Document Types to define and validate the structure and data types of integration documents, how to create and use Flow services including defining input/output pipelines, mapping data with transformers, and invoking package services.  
-- You will develop workflows by connecting applications using Flow Services and connectors, configure webhooks for REST communication, create REST APIs from workflows, and test the integration using REST clients.  
-### 11:00 am — IWHI OnPremise meets AI   
-- Bob meets Designer (The ability for any code‑capable LLM to create Flow Script, which can then be imported directly into webMethods.)  
-- We’ve already added Flow Script validation and import into Designer) and wMX MCP Server (WxMCPServer is a webMethods Integration Server package implementing an MCP Server for IBM webMethods Hybrid Integration (IWHI), enabling enterprises to expose their existing APIs and API policies as MCP Tools through an enterprise-grade integration platform.)  
-### 11:30 am — Unified Experience - API Programming  
-- You will create a low-code workflow in webMethods Integration that consumes an RSS feed, formats the date and content, and structures the response as JSON to expose as an API.  
-- You will add and configure a webhook trigger to start the workflow (synchronously), test the workflow via the webhook URL, and inspect execution logs and real-time visualization.  
-- You will register and publish the API in IBM API Connect and webMethods API Management, learning how to manage, secure, and socialize the API within the unified IWHI platform.  
-##   
-## Day 2 (afternoon)  
-  
-### 1:30 pm — Unified Experience – Event Automation  
-- You will learn how to implement event distribution with IBM Event Streams to manage and explore event topics.  
-- You will learn how to create integration flow services and workflows in webMethods Integration to generate and post Kafka events.  
-- You will learn how to process streams of events using IBM Event Processing and build a self-service event catalog with Event Endpoint Management.  
-### 2:45 pm — Hybrid Control Plane   
-- You will provision a local integration runtime and register this runtime on Hybrid Control Plane.  
-- You will create a flow service to run in your local runtime and deploy it.  
-- You will monitor executions using end-to-end monitoring, manage integration runtimes, and manage federated APIs through the Hybrid Control Plane.  
-### 4:00 pm — End-to-End Monitoring  
-- You will learn how to build robust Workflows and Flow Services and how to track and trace transactions across different runtimes (Cloud, Edge, Hybrid).  
-- You will learn how to use IBM End-to-End Monitoring for operational tasks such as performance measurement and failure handling, and for compliance verification through transaction tracking and tracing.  
-- You will practice importing Flow services and Workflows, applying custom transaction IDs for tracing/monitoring, implementing Try/Catch and custom error messages, catching failures in Integration Workflows, measuring performance with KPIs, creating alerts, and running and monitoring Integration Workflows that include failure scenarios.  
-### 4:45 pm — AI lab - Transaction Monitoring (Using Observability Agent)   
-- You will explore how the Observability Agent provides an AI‑powered way to monitor and troubleshoot end‑to‑end transactions in IWHI.  
-- You will learn how it summarizes errors, performs root‑cause analysis, and offers fix suggestions using execution logs.  
-- You will see how the agent organizes issues across APIs, Integrations, B2B to give a unified troubleshooting experience.  
+# IWHI Workshop Agenda
+## Day 1 (Morning)
+### 8:30 am — Welcome and Introduction (Lecture)
+- Duration: 15 min
+- Audience: Sales, Tech
+- Presenters: tbd
+
+### 8:45 am — Platform Overview (Lecture)
+- Duration: 75 min
+- Description: Overview of IWHI vision, strategy, positioning, and use cases.
+- Audience: Sales, Tech
+- Presenters: Dave Pemberton, Mike Thompson
+
+### 10:00 am — Architecture (Lecture)
+- Duration: 75 min
+- Description: Overview of IWHI architecture.
+- Audience: Tech
+- Presenters: Rob Tiberio, Matthew Barnes
+
+### 11:15 am — Use Cases (Lecture)
+- Duration: 30 min
+- Description: Typical IWHI use cases emphasizing AI, MCP, UC1, UC7, and rationale for MFT and B2B.
+- Audience: Sales, Tech
+- Presenters: Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 12:00 pm — Lunch (60 min)
+
+ ## Day 1 (Afternoon)
+### 1:00 pm — IWHI and AI (Lecture)
+- Duration: 45 min
+- Description: AI capabilities in IWHI (AI agents, MCP, AI Gateway, A2A), integration and API synergy.
+- Audience: Sales, Tech
+- Presenters: Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz, Mike Thompson
+
+### 1:45 pm — Introduction of AI-powered Integration Overview (Lecture)
+- Duration: 15 min
+- Description: Introduction to AI-powered assistants (API agent, Integration agent, B2B agent).
+- Audience: Sales, Tech
+- Presenters: Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz, Mike Thompson
+
+### 2:00 pm — AI Lab - AI-powered Integration (Lab)
+- Duration: 45 min
+- Description: Create and test flows using Integration Agent with HubSpot and Salesforce CRM; learn business agility benefits.
+- Audience: Sales, Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 2:45 pm — AI Lab - App Connect Integration Agent (Lab)
+- Duration: 45 min
+- Description: Create and test flows in App Connect with monday.com and Salesforce; improve Salesforce contact reading.
+- Audience: Sales, Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 3:30 pm — Break (30 min)
+
+### 4:00 pm — AI Lab - API Agent (Lab)
+- Duration: 45 min
+- Description: Install/configure API Agent; create, validate, remediate OpenAPI specs; generate and deploy API code; create draft API on API Connect.
+- Audience: Sales, Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 4:45 pm — How to demo IWHI and its components? (Lecture)
+- Duration: 30 min
+- Description: Use existing demos (Navattic Click-Throughs), structure demos, elevator pitches for IWHI and components.
+- Audience: Sales, Tech
+- Presenters: Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 5:15 pm — Wrap Up (All)
+- Duration: 15 min
+- Presenters: Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### Buffer — Environment Preparation for Day 2
+- Duration: 30 min
+- Owner: Christian
+
+### 6:00 pm — End of Day
+
+## Day 2 (Morning)
+### 8:30 am — Introduction to Unified Experience of IWHI (Lecture)
+- Duration: 15 min
+- Description: Introduction to unified integration experience.
+- Audience: Tech
+- Presenters: Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz, Mike Thompson
+
+### 8:45 am — Flow and Workflow Programming (Lab)
+- Duration: 135 min
+- Description: Practice integration projects, organize assets, distribute packages; create/use Document Types, Flow services; develop workflows, configure webhooks, create REST APIs, test integrations.
+- Audience: Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 11:00 am — IWHI OnPremise meets AI (Lab)
+- Duration: 30 min
+- Description: LLM-generated Flow Script import; Flow Script validation; wMX MCP Server exposing APIs as MCP Tools.
+- Audience: Sales, Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 11:30 am — Unified Experience - API Programming (Lab)
+- Duration: 60 min
+- Description: Create low-code workflow consuming RSS feed, format and expose JSON API; configure webhook, test, inspect logs; register and publish API in IBM API Connect and webMethods API Management.
+- Audience: Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 12:30 pm — Lunch (60 min)
+
+## Day 2 (Afternoon)
+### 1:30 pm — Unified Experience – Event Automation (Lab)
+- Duration: 60 min
+- Description: Implement event distribution with IBM Event Streams; create flow services and workflows to generate/post Kafka events; process streams with IBM Event Processing; build event catalog.
+- Audience: Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 2:30 pm — Hybrid Control Plane and E2E Monitoring (Lecture)
+- Duration: 15 min
+- Description: Introduction to Hybrid Control Plane and End-to-End Monitoring.
+- Audience: Sales, Tech
+- Presenters: Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz, Mike Thompson
+
+### 2:45 pm — Hybrid Control Plane (Lab)
+- Duration: 45 min
+- Description: Provision local integration runtime, register on Hybrid Control Plane; create/deploy flow service; monitor executions; manage runtimes and federated APIs.
+- Audience: Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 3:30 pm — Break (30 min)
+
+### 4:00 pm — End-to-End Monitoring (Lab)
+- Duration: 45 min
+- Description: Build robust workflows/flow services; track transactions across runtimes; use IBM End-to-End Monitoring for performance, failure handling, compliance; import flows; apply custom transaction IDs; implement error handling; measure KPIs; create alerts; monitor failure scenarios.
+- Audience: Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
+
+### 4:45 pm — AI Lab - Transaction Monitoring (Using Observability Agent) (Lab)
+- Duration: 15 min
+- Description: Explore AI-powered Observability Agent for monitoring/troubleshooting; summarize errors; root-cause analysis; fix suggestions; organize issues across APIs, Integrations, B2B.
+- Audience: Tech
+- Presenters: Christian, Tom Campbell, Brian Wilson, Joel Gomez, Maik Szmatulewicz
