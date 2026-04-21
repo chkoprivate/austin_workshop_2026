@@ -24,7 +24,7 @@ Learners create a **Success/Failure Transaction Workflow** that orchestrates two
 * Access to IBM End‑to‑End Monitoring dashboard  
 ### Configuration & Assets  
 * Resource naming convention: ST_<Four‑Letters‑Name‑Abbreviation>_<Country‑Two‑Letters‑Code>_ (e.g., ST_JODO_US)  
-* Pre‑developed Flow services and workflow files from GitHub: https://github.com/chkoprivate/L4EnablementwMIntegration.git  
+* Pre‑developed Flow services and workflow files from GitHub:https://github.com/chkoprivate/L4EnablementwMIntegration.git  
 * Unique transaction IDs for tracing  
 * URLs/endpoints for IBM webMethods Integration and End‑to‑End Monitoring  
   
