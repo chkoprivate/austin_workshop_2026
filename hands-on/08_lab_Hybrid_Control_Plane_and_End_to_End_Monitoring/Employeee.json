@@ -1,0 +1,16 @@
+{
+  "Employee": {
+    "SSN": "514-30-2668",
+    "gender": "f",
+    "birthdate": "1986/05/27",
+    "maiden name": "Nicholson",
+    "last name": "Russell",
+    "first name": "Jacki",
+    "address": "3097 Better Street",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "66215",
+    "phone": "913-227-6106",
+    "email": "jrussell@domain.com"
+  }
+}
