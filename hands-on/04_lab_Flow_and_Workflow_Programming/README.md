@@ -32,7 +32,7 @@ This lab guides learners through building a hybrid integration scenario using IB
 * IBM webMethods iPaaS Integration account via TechZone (IWHI tenant)  
 * Git account for importing packages (optional)  
 * Administrator role required for package import (not required for usage)  
-## Environment & Tools  
+### Environment & Tools  
 * Access to IWHI tenant with webMethods Integration enabled  
 * REST client tool such as HTTPie (++[https://httpie.io/app](https://httpie.io/app)++), Chrome recommended  
 * Service Designer and on-prem Integration Server if using on-prem packages; otherwise cloud design-time suffices  

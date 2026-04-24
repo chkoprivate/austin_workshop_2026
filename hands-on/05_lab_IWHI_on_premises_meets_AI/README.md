@@ -54,7 +54,3 @@ At the end of this exercise, the learner will have a working end‑to‑end setu
 * WxMCPServer automates conversion of OpenAPI operations into MCP tools, enabling AI clients to discover and call enterprise APIs via MCP.  
 * Security is enforced via standard OAuth and Integration Server user/group/ACL mappings; AI clients use bearer tokens provided at registration time.  
 * Using a local Integration Server and curl for validation allows full end‑to‑end testing before connecting AI clients.  
-# Next steps (optional)  
-* Extend the OpenAPI definitions to cover additional business services and confirm their MCP exposure.  
-* Replace the static bearer token workflow with a production‑grade OAuth flow and refine Integration Server user/group permissions (avoid assigning MCP clients to Administrators).  
-* Integrate other MCP‑capable clients or build automated test suites to validate tool discovery and invocation at scale.  

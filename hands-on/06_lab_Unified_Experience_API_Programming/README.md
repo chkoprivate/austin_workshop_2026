@@ -36,7 +36,8 @@ This lab guides users through creating a unified experience in IBM webMethods Hy
 * RSS feed URL: https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss.  
 * API key from TechZone reservation page (no line breaks/trailing spaces).  
 * Ability to download OpenAPI JSON from project APIs tab.  
-**Outcome for the Learner**  
+##   
+## Outcome for the Learner  
 * At the end of this exercise, the learner will have a working low‑code integration that reads AI press releases from an RSS feed, normalizes and maps the data into JSON, and exposes it as a REST endpoint callable via HTTP.  
 * The learner will publish an OpenAPI specification and register the API in an API gateway (API Connect and/or webMethods API Gateway) with header‑based API key configuration.  
 * This reinforces skills in low‑code integration design, data transformation, webhook‑driven APIs, and API lifecycle management, and can be reused for other feeds or backend integrations.  
