@@ -1,8 +1,11 @@
-# Lab 3 -API Agent lab  
+# Lab 3 - IWHI: API Agent  
   
 #Austin #appIntegration #Hands-On   
   
 This lab demonstrates an AI-driven API development workflow: using an agent (API Agent) integrated with IBM webMethods Hybrid Integration (IWHI) / API Connect to convert natural-language requirements into a validated OpenAPI specification, enhance documentation, auto-remediate governance issues, generate server scaffolding (FastAPI), and publish a draft API.  
+  
+## Hands-On PDF  
+- [https://ibm.seismic.com/Link/Content/DCQfXb3pFWdDGGFWPp7fCTcHgmQP](https://ibm.seismic.com/Link/Content/DCQfXb3pFWdDGGFWPp7fCTcHgmQP)  
   
 ## Use Case (what is being implemented)  
 * Business problem: Speed up API delivery and improve consistency and governance where manual spec creation, documentation, and compliance checks are slow or error-prone.  

@@ -1,8 +1,13 @@
-# Lab 7 - Event Automation Unified Experience lab  
+# Lab 7 - IWHI: Event Automation Unified Experience  
   
-#Austin #appIntegration #Hands-On   
+#Austin #appIntegration #Hands-On  
+  
+This lab focuses on automating event-driven processes using Unified Experience, likely covering setup, configuration, and execution of automated event handling. It is designed for business professionals to understand how to leverage automation in their workflows.  
 ###   
-## Use Case (What is being implemented?)  
+## Hands-On PDF  
+- [https://ibm.seismic.com/Link/Content/DC2hWWhc6BjMf8FHMF7J8Rc4R6p3](https://ibm.seismic.com/Link/Content/DC2hWWhc6BjMf8FHMF7J8Rc4R6p3)  
+  
+## Use Case  
 This lab demonstrates an event-led integration solution addressing enterprise challenges of fragmented systems, limited visibility, and slow response to business events. It enables real-time monitoring and processing of order events to support timely decision-making and operational agility. The scenario reflects a company’s need to transition from periodic sales reporting to real-time order tracking, allowing proactive adjustments in sales forecasts and manufacturing. The integration pattern showcased is event-driven integration using Apache Kafka for event distribution combined with event stream processing for filtering and reacting to events.  
   
 ## Example Implementation  
@@ -21,7 +26,8 @@ The learner configures a Kafka connector, creates flow services to produce event
 ## Prerequisites  
 ### Accounts & Access  
 * IBM webMethods Hybrid Integration (IWHI) SaaS account.  
-* IBM Cloud Pak for Integration environment on TechZone.  
+* A bash shell for pipeline installation: A macOS terminal, a Terminal on a WSL distribution or any other Linux environment allowing you to run commands in bash shell.** In addition**, the client workstation need to have the CLIs of git, oc and tkn installed  
+* IBM Cloud Pak for Integration environment on TechZone. **Needs to be installed before! Section 2 of the document.**  
 * IBMid login credentials.  
 * Access to the GitHub repository for lab commands.  
 ### Environment & Tools  

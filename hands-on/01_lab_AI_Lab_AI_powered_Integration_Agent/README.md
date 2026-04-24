@@ -1,11 +1,12 @@
-# webMethods Integration Integration Agent lab  
-##   
-## Hands-on lab guide IWHI Austin Lab 1  
-  
+# Lab 1 - IWHI: Integration Agent  
+#   
 #appIntegration #AI #Austin   
   
 This lab demonstrates how to use an AI-powered integration agent to quickly create a low-code integration that synchronizes CRM records between HubSpot and Salesforce using IBM webMethods Hybrid Integration (IWHI).  
   
+## Hands-On PDF  
+- [https://ibm.seismic.com/Link/Content/DCmDH2pJ7D7m78CRFfP4fVC2D26j](https://ibm.seismic.com/Link/Content/DCmDH2pJ7D7m78CRFfP4fVC2D26j)  
+##   
 ## Use Case (What is being implemented?)  
   
 * **Business problem:** Remove manual, slow integration requests and data silos between teams using different CRM systems by automatically syncing new deals in HubSpot into Salesforce as opportunities.  

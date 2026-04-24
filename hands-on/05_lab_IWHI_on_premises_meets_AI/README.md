@@ -2,9 +2,12 @@
   
 #Austin #Hands-On #appIntegration   
   
-This hands‑on lab demonstrates how to make existing on‑premises integration services AI‑accessible by exposing them as OpenAPI APIs and automatically turning those APIs into Model Context Protocol (MCP) tools protected by OAuth; learners configure a local webMethods Integration Server, register OAuth clients, install WxMCPServer, and connect an MCP‑capable AI client (Bob) to discover and invoke those tools.  
+This lab demonstrates how to make existing on‑premises integration services AI‑accessible by exposing them as OpenAPI APIs and automatically turning those APIs into Model Context Protocol (MCP) tools protected by OAuth; learners configure a local webMethods Integration Server, register OAuth clients, install WxMCPServer, and connect an MCP‑capable AI client (Bob) to discover and invoke those tools.  
   
-## Use Case (What is being implemented?)  
+## Hands-On PDF  
+- [https://ibm.seismic.com/Link/Content/DC4RJX99FTdXD8mBhpXPfBd2Rp8B](https://ibm.seismic.com/Link/Content/DC4RJX99FTdXD8mBhpXPfBd2Rp8B)  
+  
+## Use Case   
 * **Business/technical problem:** Enable AI agents to securely discover and invoke on‑premises integration functionality without modifying existing business logic.  
 * **Real‑world scenario:** Enterprises want to expose legacy or internal integration services (example: customer data APIs) to AI assistants for natural‑language driven queries and automation while preserving governance and security.  
 * **Integration pattern:** Expose existing Flow services behind a formal OpenAPI contract; run an MCP runtime (WxMCPServer) on the Integration Server to automatically present those APIs as MCP tools; secure access via OAuth and map OAuth clients to Integration Server users/groups and ACLs.  

@@ -1,6 +1,11 @@
-# Lab 6 - API Management Unified Experience  
+# Lab 6 - IWHI: API Management Unified Experience  
   
 #appIntegration #Hands-On #Austin   
+  
+This lab guides users through creating a unified experience in IBM webMethods Hybrid Integration (IWHI) by integrating webMethods Integration and API Connect or webMethods API Management. The exercise involves implementing application integration and API-led integration to consume AI news from an RSS feed and expose it as an API. Key steps include creating a low-code automation using webMethods Integration, exposing the integration as an API, and registering the API in either API Connect or webMethods API Gateway. The lab aims to demonstrate how IWHI simplifies integration complexity and accelerates time-to-value for businesses.  
+  
+## Hands-On PDF  
+- [https://ibm.seismic.com/Link/Content/DC78JHhBD6qWX8MWDp77WThJqVhd](https://ibm.seismic.com/Link/Content/DC78JHhBD6qWX8MWDp77WThJqVhd)  
   
 ## Use Case   
 * **Business problem:** Enable rapid, low‑code publication of curated AI press releases as a managed REST API, allowing business teams to consume timely news without custom development delays.  
@@ -22,16 +27,16 @@
 **Accounts & Access**  
 * Active IWHI (IBM webMethods Hybrid Integration) SaaS account.  
 * IBMid for login.  
-* API key  = will be provided during the session
-## Environment & Tools 
+* API key  
+**Environment & Tools**  
 * IWHI SaaS tenant with webMethods Integration, API Connect, webMethods API Gateway enabled.  
 * Browser access to TechZone reservation details.  
-## Configuration & Assets  
+**Configuration & Assets**  
 * Resource naming convention: ST_<Four‑Letters‑Name‑Abbreviation>_<Country‑Two‑Letters‑Code> (e.g., ST_JODO_US_Project).  
 * RSS feed URL: https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss.  
-* API key <provided api-key>>
+* API key from TechZone reservation page (no line breaks/trailing spaces).  
 * Ability to download OpenAPI JSON from project APIs tab.  
-## Outcome for the Learner
+**Outcome for the Learner**  
 * At the end of this exercise, the learner will have a working low‑code integration that reads AI press releases from an RSS feed, normalizes and maps the data into JSON, and exposes it as a REST endpoint callable via HTTP.  
 * The learner will publish an OpenAPI specification and register the API in an API gateway (API Connect and/or webMethods API Gateway) with header‑based API key configuration.  
 * This reinforces skills in low‑code integration design, data transformation, webhook‑driven APIs, and API lifecycle management, and can be reused for other feeds or backend integrations.  

@@ -1,8 +1,11 @@
-# Lab 2 - App Connect Integration Agent lab  
+# Lab 2 -  IWHI: App Connect Integration Agent  
   
 #Austin #Hands-On #AI #appIntegration   
   
-This hands-on lab guides learners through using the Integration Agent capability within IBM webMethods Hybrid Integration (IWHI) App Connect to build a low-code integration flow that synchronizes Salesforce contact data with a monday.com task board. The exercise addresses the business need to automate task creation in a work management system when new contacts are added to CRM, improving operational efficiency, visibility, and scalability by reducing manual intervention.  
+This lab guides learners through using the Integration Agent capability within IBM webMethods Hybrid Integration (IWHI) App Connect to build a low-code integration flow that synchronizes Salesforce contact data with a monday.com task board. The exercise addresses the business need to automate task creation in a work management system when new contacts are added to CRM, improving operational efficiency, visibility, and scalability by reducing manual intervention.  
+  
+## Hands-On PDF  
+- [https://ibm.seismic.com/Link/Content/DC76DM3R6Xfh3G2FRWQ3B6BHRQdV](https://ibm.seismic.com/Link/Content/DC76DM3R6Xfh3G2FRWQ3B6BHRQdV)  
   
 ## Exercise Overview  
 **Use Case (What is being implemented?)**  

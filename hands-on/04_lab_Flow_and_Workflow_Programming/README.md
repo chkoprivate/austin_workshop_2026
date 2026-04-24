@@ -1,8 +1,11 @@
-# Lab 4 - Flow & Workflow Programming   
+# Lab 4 - IWHI: Flow & Workflow Programming   
   
 #Austin #Hands-On #appIntegration   
   
-This hands-on lab guides learners through building a hybrid integration scenario using IBM webMethods Integration (iPaaS). The exercise focuses on processing an incoming order JSON payload, enriching it with customer data, transforming it into a shipment document, and returning the shipment JSON synchronously to the caller. It demonstrates how to design Flow services and low-code Workflows that implement a synchronous webhook-triggered integration pattern.  
+This lab guides learners through building a hybrid integration scenario using IBM webMethods Integration (iPaaS). The exercise focuses on processing an incoming order JSON payload, enriching it with customer data, transforming it into a shipment document, and returning the shipment JSON synchronously to the caller. It demonstrates how to design Flow services and low-code Workflows that implement a synchronous webhook-triggered integration pattern.  
+  
+## Hands-On PDF  
+- [https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V](https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V)  
   
 ## Use Case (What is being implemented?)  
 * The lab solves the problem of converting incoming order messages into shipment records enriched with customer address information and returning shipment details immediately.  

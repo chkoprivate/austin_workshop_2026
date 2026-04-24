@@ -1,6 +1,13 @@
-# Lab - 9 webMethods Integration End-to-End Monitoring  
+# Lab 9 - IWHI:  End-to-End Monitoring  
   
-## Use Case (What is being implemented?)  
+#Austin** #Hands-On #appIntegration **  
+  
+This lab provides a step-by-step hands-on experience with IBM webMethods Integration, focusing on end-to-end monitoring, building robust workflows, and Flow services.   
+  
+**Hands-On PDF **  
+- [https://ibm.seismic.com/Link/Content/DC4VVqWTT8TRbGTFjmVM86gQ4DJ3](https://ibm.seismic.com/Link/Content/DC4VVqWTT8TRbGTFjmVM86gQ4DJ3)  
+  
+## Use Case  
 This lab guides learners through building robust, traceable integration workflows and Flow services in IBM webMethods Integration, enhanced with end‑to‑end monitoring. It addresses the need for operational visibility, performance measurement, and failure tracking across distributed integration assets in cloud, edge, or hybrid environments. The scenario models transaction‑based business processes requiring compliance monitoring and performance alerts. The integration pattern is a distributed workflow invoking multiple Flow services across runtimes, with custom transaction IDs for traceability and error handling.  
   
 ## Example Implementation  
@@ -22,7 +29,7 @@ Learners create a **Success/Failure Transaction Workflow** that orchestrates two
 * Access to IBM End‑to‑End Monitoring dashboard  
 ### Configuration & Assets  
 * Resource naming convention: ST_<Four‑Letters‑Name‑Abbreviation>_<Country‑Two‑Letters‑Code>_ (e.g., ST_JODO_US)  
-* Pre‑developed Flow services and workflow files from GitHub:https://github.com/chkoprivate/L4EnablementwMIntegration.git  
+* Pre‑developed Flow services and workflow files from GitHub: https://github.com/chkoprivate/L4EnablementwMIntegration.git  
 * Unique transaction IDs for tracing  
 * URLs/endpoints for IBM webMethods Integration and End‑to‑End Monitoring  
   
