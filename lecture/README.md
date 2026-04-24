@@ -14,7 +14,7 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 ## IWHI and AI
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
 ## Introduction of AI‑powered Integration Overview
-- [Presentation](https://ibm.seismic.com/Link/Content/DCBGdg83XWfDP89TMDM39PbpMVXP)
+- [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
 ## Solution Design
 - [Presentation](https://ibm.seismic.com/Link/Content/DCqBJC7GcHdF68mDWjV8D4qq7Jmj)
 
