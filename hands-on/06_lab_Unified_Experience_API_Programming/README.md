@@ -17,7 +17,7 @@ This lab guides users through creating a unified experience in IBM webMethods Hy
     * Low‑code workflow in webMethods Integration consuming an RSS feed, transforming pubDate to ISO format, and mapping title/description/link into JSON.  
     * Synchronous webhook trigger to invoke the workflow over HTTP.  
     * REST API definition (OpenAPI) exposing the workflow at /latest.  
-    * API registration in IBM API Connect and/or webMethods API Gateway with header‑based API key configuration.  
+    * API registration in IBM API Connect and webMethods API Gateway with header‑based API key configuration.  
 * **Source system:** IBM newsroom RSS feed — ++[AI press releases](https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss)++.  
 * **Target systems:** API consumers; API Gateway(s) for management (API Connect, webMethods API Gateway).  
 * **Data/payload:** RSS input; JSON output (ISO‑8601 date, title, description, link).  
@@ -27,14 +27,12 @@ This lab guides users through creating a unified experience in IBM webMethods Hy
 **Accounts & Access**  
 * Active IWHI (IBM webMethods Hybrid Integration) SaaS account.  
 * IBMid for login.  
-* API key  
+* API key (the instructor will provide you with one before hands-on lab starts)  
 **Environment & Tools**  
 * IWHI SaaS tenant with webMethods Integration, API Connect, webMethods API Gateway enabled.  
-* Browser access to TechZone reservation details.  
 **Configuration & Assets**  
 * Resource naming convention: ST_<Four‑Letters‑Name‑Abbreviation>_<Country‑Two‑Letters‑Code> (e.g., ST_JODO_US_Project).  
-* RSS feed URL: https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss.  
-* API key from TechZone reservation page (no line breaks/trailing spaces).  
+* RSS feed URL: [https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss](https://newsroom.ibm.com/press-releases-artificial-intelligence?pagetemplate=rss)  
 * Ability to download OpenAPI JSON from project APIs tab.  
 ##   
 ## Outcome for the Learner  
