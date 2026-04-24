@@ -13,7 +13,7 @@ Navigate directly to each hands-on lab:
 - [05 – IWHI On-Premises Meets AI](05_lab_IWHI_on_premises_meets_AI/)  
 - [06 – Unified Experience API Programming](06_lab_Unified_Experience_API_Programming/)  
 - [07 – Unified Experience Event Automation](07_lab_Unified_Experience_Event_Automation/README.md)  
-- [08 – Hybrid Control Plane and End-to-End Monitoring](08_lab_Hybrid_Control_Plane_and_End_to_End_Monitoring/README.md)  
+- [08 – Hybrid Control Plane](08_lab_Hybrid_Control_Plane/README.md)  
 - [09 – End-to-End Monitoring](09_lab_End_to_End_Monitoring/README.md)  
 - [10 – Observability Agent (AI Lab)](10_lab_AI_Lab_Observability_Agent/)  
 ⸻  
