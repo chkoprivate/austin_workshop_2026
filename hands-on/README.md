@@ -2,7 +2,6 @@
   
 Welcome to the hands-on section of the Austin Workshop 2026 repository. This README covers the hands-on sessions.
 
-## Labs Index  
   
 Navigate directly to each hands-on lab:  
   
@@ -17,7 +16,6 @@ Navigate directly to each hands-on lab:
 - [09 – End-to-End Monitoring](09_lab_End_to_End_Monitoring/README.md)  
 - [10 – Observability Agent (AI Lab)](10_lab_AI_Lab_Observability_Agent/)  
 ⸻  
-## Learning Objectives  
   
 By completing these labs, you will learn how to:  
   
@@ -29,7 +27,6 @@ By completing these labs, you will learn how to:
 - Implement end-to-end monitoring solutions for transaction tracing and monitoring  
 - Apply best practices for scalable and maintainable integration solutions  
 ⸻  
-## Prerequisites  
   
 Before starting the labs, ensure you have:  
   
