@@ -14,7 +14,7 @@ Participants will work with low-code integration tools, runtime management, even
 ⸻  
 
 ##  Agenda 
-Please check the [Agenda](agenda/README.md) on regular base to be informed on short notice about changes.
+Please check the [Agenda](https://ibm.seismic.com/Link/Content/DC3qDh92mhG9TGFV6P3HQBmjcQVB) on regular base to be informed on short notice about changes.
 
 ⸻  
 ## Getting Started  
