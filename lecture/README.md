@@ -3,12 +3,16 @@
 Welcome to the Lecture section of the Austin Workshop 2026 repository. This README covers the lecture sessions that provide foundational knowledge, platform overviews, architecture, and strategic insights into IBM webMethods Hybrid Integration (IWHI). These lectures prepare participants for the hands-on labs by providing context, vision, and technical understanding.
 
 # Lecture Topics
+## Agenda
+[Agenda](https://ibm.seismic.com/Link/Content/DC3qDh92mhG9TGFV6P3HQBmjcQVB)
 ## Welcome and Introduction
 ## Platform Overview
 ## Architecture
+- [Presentation](https://ibm.seismic.com/Link/Content/DCj68DTGd9JdmGhFQXCV4cg393Bj)
 ## Use Cases
 ## IWHI and AI
 ## Introduction of AI‑powered Integration Overview
+- [Presentation](https://ibm.seismic.com/Link/Content/DCBGdg83XWfDP89TMDM39PbpMVXP)
 ## How to demo IWHI and its components?
 ### AI‑Assisted B2B Partner Onboarding
 - [Elevator Pitch](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
