@@ -5,16 +5,16 @@ Welcome to the hands-on section of the Austin Workshop 2026 repository. This REA
   
 Navigate directly to each hands-on lab:  
   
-- [01 – AI-powered Integration Agent](01_lab_AI_Lab_AI_powered_Integration_Agent/README.md)  
-- [02 – App Connect Integration Agent](02_lab_AI_Lab_App_Connect_Integration_Agent/README.md)  
-- [03 – API Agent lab](03_lab_AI_Lab_API_Agent/README.md)  
-- [04 – Flow and Workflow Programming](04_lab_Flow_and_Workflow_Programming/README.md)  
-- [05 – IWHI On-Premises Meets AI](05_lab_IWHI_on_premises_meets_AI/)  
-- [06 – Unified Experience API Programming](06_lab_Unified_Experience_API_Programming/)  
-- [07 – Unified Experience Event Automation](07_lab_Unified_Experience_Event_Automation/README.md)  
-- [08 – Hybrid Control Plane](08_lab_Hybrid_Control_Plane/README.md)  
-- [09 – End-to-End Monitoring](09_lab_End_to_End_Monitoring/README.md)  
-- [10 – Observability Agent (AI Lab)](10_lab_AI_Lab_Observability_Agent/)  
+- [Lab 1 – AI-powered Integration Agent](01_lab_AI_Lab_AI_powered_Integration_Agent/README.md)  
+- [Lab 2 – App Connect Integration Agent](02_lab_AI_Lab_App_Connect_Integration_Agent/README.md)  
+- [Lab 3 – API Agent lab](03_lab_AI_Lab_API_Agent/README.md)  
+- [Lab 4 – Flow and Workflow Programming](04_lab_Flow_and_Workflow_Programming/README.md)  
+- [Lab 5 – IWHI On-Premises Meets AI](05_lab_IWHI_on_premises_meets_AI/)  
+- [Lab 6 – Unified Experience API Programming](06_lab_Unified_Experience_API_Programming/)  
+- [Lab 7 – Unified Experience Event Automation](07_lab_Unified_Experience_Event_Automation/README.md)  
+- [Lab 8 – Hybrid Control Plane](08_lab_Hybrid_Control_Plane/README.md)  
+- [Lab 9 – End-to-End Monitoring](09_lab_End_to_End_Monitoring/README.md)  
+- [Lab 10 – Observability Agent (AI Lab)](10_lab_AI_Lab_Observability_Agent/)  
 ⸻  
   
 By completing these labs, you will learn how to:  
