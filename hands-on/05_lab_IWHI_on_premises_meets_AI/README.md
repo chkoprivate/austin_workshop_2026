@@ -33,8 +33,10 @@ This lab demonstrates how to make existing on‑premises integration services AI
 * IBMid for logging into Bob (if using Bob as the MCP client).  
 ### Environment & Tools  
 * webMethods Service Designer installed and configured as a local Integration Server / Microservice Runtime.  
-* Local Integration Server running and reachable at the configured endpoint (lab uses ++[http://localhost:5555](http://localhost:5555/)++).  
-* curl available on the command line for OAuth and MCP validation calls.  
+* Local Integration Server (MSR) running and reachable at the configured endpoint (lab uses ++[http://localhost:5555](http://localhost:5555/)++).  
+* For MCP/API test:  
+    * **Mac & Linux: curl** available on the command line for OAuth and MCP validation calls (Mac & Linux)  
+    * **Windows**: Insomnia ([https://insomnia.rest/download](https://insomnia.rest/download)) or other API-Testing tool being locally installed  
 * An MCP‑capable AI client (Bob in the lab; alternatives: VS Code with Copilot + MCP support if available).  
 ### Configuration & Assets  
 * Lab repositories cloned locally:  
