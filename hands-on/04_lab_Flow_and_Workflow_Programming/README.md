@@ -7,7 +7,7 @@ This lab guides learners through building a hybrid integration scenario using IB
 ## Hands-On PDF  
 - [https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V](https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V)  
   
-## Use Case (What is being implemented?)  
+## Use Case  
 * The lab solves the problem of converting incoming order messages into shipment records enriched with customer address information and returning shipment details immediately.  
 * It represents a real-world e-commerce or order fulfillment scenario where an external system submits an order and expects a shipment confirmation with enriched data.  
 * The integration pattern showcased is a synchronous webhook (HTTP POST) triggering an iPaaS Workflow that invokes a Flow service for data enrichment and transformation, then returns the response synchronously.  
