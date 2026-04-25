@@ -17,8 +17,8 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
 ## Solution Design
 - [Presentation](https://ibm.seismic.com/Link/Content/DCqBJC7GcHdF68mDWjV8D4qq7Jmj)
-
 # How to demo IWHI and its components?
+- [Presentation](https://ibm.seismic.com/Link/Content/DCjTdm6TV73gXGfXM84C8WjXfpbj)
 ## AI‑Assisted B2B Partner Onboarding
 - [Elevator Pitch](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
 - [Demo Script](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
