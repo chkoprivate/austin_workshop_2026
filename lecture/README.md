@@ -42,16 +42,12 @@ By attending these lectures, participants will:
 - Be introduced to the unified experience and hybrid control plane concepts.
 
 # Presenters
-- Dave Pemberton
-- Mike Thompson
 - Rob Tiberio
 - Matthew Barnes
 - Tom Campbell
-- Brian Wilson
 - Joel Gomez
 - Maik Szmatulewicz
-
-
+- Christian Kopecki
 
 
 
