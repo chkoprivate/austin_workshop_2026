@@ -5,7 +5,7 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 # Lecture Topics
 ## Agenda
 - [Agenda](https://ibm.seismic.com/Link/Content/DCb462pf6FTGf8FM3hTq4HPVWPXj)
-## Welcome and Introduction and Platform Overview
+## Platform Overview
 - [Presentation](https://ibm.seismic.com/Link/Content/DCGfWBX836VTX8FHJ2BPBQgh2Rm8)
 ## Architecture
 - [Presentation](https://ibm.seismic.com/Link/Content/DCbqPBbH8h2TBGHXbGjQV7dfhFVG)
@@ -29,9 +29,9 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 ## Solution Design
 - [Presentation](https://ibm.seismic.com/Link/Content/DCqBJC7GcHdF68mDWjV8D4qq7Jmj)
 ### Solution Dokuments
-- [Presentation](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
-- [Presentation](https://ibm.seismic.com/Link/Content/DC7hmgdfQDb2g8CXBdmRFqFqpMpP)
-- [Presentation](https://ibm.seismic.com/Link/Content/DC6p8DmB7p27b8fJdcTbgVTq9GDd)
+- [Scenario 1](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
+- [Scenario 2](https://ibm.seismic.com/Link/Content/DC7hmgdfQDb2g8CXBdmRFqFqpMpP)
+- [Scenario 3](https://ibm.seismic.com/Link/Content/DC6p8DmB7p27b8fJdcTbgVTq9GDd)
 - [Template](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
 
 # Objectives
