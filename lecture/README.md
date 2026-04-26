@@ -15,15 +15,20 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
 ## Introduction of AI‑powered Integration Overview
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
+## Demos
+- [Presentation](https://ibm.seismic.com/Link/Content/DCjTdm6TV73gXGfXM84C8WjXfpbj)
 ## Solution Design
 - [Presentation](https://ibm.seismic.com/Link/Content/DCqBJC7GcHdF68mDWjV8D4qq7Jmj)
-# How to demo IWHI and its components?
-- [Presentation](https://ibm.seismic.com/Link/Content/DCjTdm6TV73gXGfXM84C8WjXfpbj)
-## AI‑Assisted B2B Partner Onboarding
+### Solution Dokuments
+- [Presentation](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
+- [Presentation](https://ibm.seismic.com/Link/Content/DC7hmgdfQDb2g8CXBdmRFqFqpMpP)
+- [Presentation](https://ibm.seismic.com/Link/Content/DC6p8DmB7p27b8fJdcTbgVTq9GDd)
+- [Template](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
+### AI‑Assisted B2B Partner Onboarding
 - [Elevator Pitch](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
 - [Demo Script](https://ibm.seismic.com/Link/Content/DC34RPDfjdQ8b8WTW9PJC3Q4hpQd)  
 - [Click-trough](https://demo-now.techzone.ibm.com/psl/t3y02oz?g=cmnefp2cz000000ilhput0dtj&s=0)
-## AI-Assisted End-To-End Monitoring (MFT)
+### AI-Assisted End-To-End Monitoring (MFT)
 - [Elevator Pitch](https://ibm.seismic.com/Link/Content/DCRg244b3QVbRG2RdMdh3dRXBD9j)  
 - [Demo Script](https://ibm.seismic.com/Link/Content/DCG3H8fqDQQR38QQC9Fc9hmQM43d)  
 - [Click-trough](https://demo-now.techzone.ibm.com/psl/8m5802f4?g=cmng7byay000000il5b2iotsf&s=0) 
