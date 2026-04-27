@@ -5,7 +5,7 @@
 This lab provides a step-by-step hands-on experience with IBM webMethods Integration, focusing on end-to-end monitoring, building robust workflows, and Flow services.   
   
 ## Hands-On PDF 
-- [https://ibm.seismic.com/Link/Content/DC4VVqWTT8TRbGTFjmVM86gQ4DJ3](https://ibm.seismic.com/Link/Content/DC4VVqWTT8TRbGTFjmVM86gQ4DJ3)  
+- https://ibm.seismic.com/Link/Content/DC4VVqWTT8TRbGTFjmVM86gQ4DJ3
 
 ## IWHI Hands-On Tenant 
 Access with IBMid only:
