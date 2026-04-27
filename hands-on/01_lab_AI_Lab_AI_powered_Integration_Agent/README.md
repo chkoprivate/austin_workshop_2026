@@ -10,6 +10,10 @@ This lab demonstrates how to use an AI-powered integration agent to quickly crea
 ## IWHI Hands-On Tenant 
 Access with IBMid only:
 - https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
+
+## Click-trough Demo
+- https://demo-now.techzone.ibm.com/psl/d3am0atv
+
 ##   
 ## Use Case (What is being implemented?)  
   

@@ -10,7 +10,10 @@ This lab guides learners through using the Integration Agent capability within I
 ## IWHI Hands-On Tenant 
 Access with IBMid only:
 - https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
-  
+
+## Click-trough Demo
+- https://demo-now.techzone.ibm.com/psl/7br0cb7
+
 ## Exercise Overview  
 **Use Case (What is being implemented?)**  
 * The lab solves the problem of disconnected systems and manual processes by automating the creation of tasks in a monday.com board whenever a new contact is added in Salesforce CRM.  
