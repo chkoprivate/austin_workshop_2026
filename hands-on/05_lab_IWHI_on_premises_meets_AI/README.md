@@ -5,10 +5,7 @@
 This lab demonstrates how to make existing on‑premises integration services AI‑accessible by exposing them as OpenAPI APIs and automatically turning those APIs into Model Context Protocol (MCP) tools protected by OAuth; learners configure a local webMethods Integration Server, register OAuth clients, install WxMCPServer, and connect an MCP‑capable AI client (Bob) to discover and invoke those tools.  
   
 ## Hands-On PDF  
-- [https://ibm.seismic.com/Link/Content/DC4RJX99FTdXD8mBhpXPfBd2Rp8B](https://ibm.seismic.com/Link/Content/DC4RJX99FTdXD8mBhpXPfBd2Rp8B)  
-## IWHI Hands-On Tenant 
-Access with IBMid only:
-- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
+- https://ibm.seismic.com/Link/Content/DC4RJX99FTdXD8mBhpXPfBd2Rp8B 
   
 ## Use Case   
 * **Business/technical problem:** Enable AI agents to securely discover and invoke on‑premises integration functionality without modifying existing business logic.  
