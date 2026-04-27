@@ -5,9 +5,10 @@ This lab demonstrates an operational observability pattern for hybrid integratio
 #Austin** #appIntegration #Hands-On **  
   
 ## Click-trough Demo  
-- [https://demo-now.techzone.ibm.com/psl/lx120mfz](https://demo-now.techzone.ibm.com/psl/2is0l4g)  
+- https://demo-now.techzone.ibm.com/psl/lx120mfz
+
   
-## Use Case (What is being implemented?)  
+## Use Case
 The real-world scenario is ZillaForge’s trading partner network, where high volumes demand minimal downtime and reduced manual triage. The technical pattern showcased is AI-assisted exception handling—detecting failures, pinpointing root causes, applying fixes at the correct control point, and replaying transactions with traceability.  
 ##   
 ## Example Implementation  
