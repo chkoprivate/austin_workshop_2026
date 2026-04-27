@@ -35,7 +35,7 @@ This lab demonstrates how to make existing on‑premises integration services AI
 * webMethods Service Designer installed and configured as a local Integration Server / Microservice Runtime.  
 * Local Integration Server (MSR) running and reachable at the configured endpoint (lab uses ++[http://localhost:5555](http://localhost:5555/)++).  
 * For MCP/API test:  
-    * **Mac & Linux: curl** available on the command line for OAuth and MCP validation calls (Mac & Linux). Use the bash commands from here: [bash/](05_lab_IWHI_on_premises_meets_AI/bash/)
+    * **Mac & Linux: curl** available on the command line for OAuth and MCP validation calls (Mac & Linux). Use the bash commands from here: [bash](bash/)
     * **Windows**: Insomnia ([https://insomnia.rest/download](https://insomnia.rest/download)) or other API-Testing tool being locally installed  
 * An MCP‑capable AI client (Bob in the lab; alternatives: VS Code with Copilot + MCP support if available).  
 ### Configuration & Assets  
