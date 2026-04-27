@@ -12,20 +12,9 @@
 # - Valid OAuth Bearer token available
 # - WxMCPServer running on Integration Server
 # -------------------------------------------------------------------
-
-# --- Configuration (EDIT THESE VALUES) ------------------------------
-
-MCP_URL="http://localhost:5555/v1_5_0/mcp"
-ACCESS_TOKEN="<your generated access token>"
-
-# -------------------------------------------------------------------
-
-echo "Invoking MCP tool: getCustomers..."
-echo
-
-curl -s -X POST "${MCP_URL}" \
+curl -s -X POST "http://localhost:5555/v1_5_0/mcp" \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+  -H "Authorization: Bearer <your generated access token>" \
   -d '{
     "jsonrpc": "2.0",
     "id": 2,
@@ -36,6 +25,3 @@ curl -s -X POST "${MCP_URL}" \
     }
   }'
 
-echo
-echo
-echo "If customer data is returned, the MCP tool invocation succeeded."
