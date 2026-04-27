@@ -4,8 +4,12 @@
   
 This lab provides a step-by-step hands-on experience with IBM webMethods Integration, focusing on end-to-end monitoring, building robust workflows, and Flow services.   
   
-**Hands-On PDF **  
+## Hands-On PDF 
 - [https://ibm.seismic.com/Link/Content/DC4VVqWTT8TRbGTFjmVM86gQ4DJ3](https://ibm.seismic.com/Link/Content/DC4VVqWTT8TRbGTFjmVM86gQ4DJ3)  
+
+## IWHI Hands-On Tenant 
+Access with IBMid only:
+- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
   
 ## Use Case  
 This lab guides learners through building robust, traceable integration workflows and Flow services in IBM webMethods Integration, enhanced with end‑to‑end monitoring. It addresses the need for operational visibility, performance measurement, and failure tracking across distributed integration assets in cloud, edge, or hybrid environments. The scenario models transaction‑based business processes requiring compliance monitoring and performance alerts. The integration pattern is a distributed workflow invoking multiple Flow services across runtimes, with custom transaction IDs for traceability and error handling.  

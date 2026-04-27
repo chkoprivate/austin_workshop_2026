@@ -5,7 +5,10 @@
 This lab guides users through creating a unified experience in IBM webMethods Hybrid Integration (IWHI) by integrating webMethods Integration and API Connect or webMethods API Management. The exercise involves implementing application integration and API-led integration to consume AI news from an RSS feed and expose it as an API. Key steps include creating a low-code automation using webMethods Integration, exposing the integration as an API, and registering the API in either API Connect or webMethods API Gateway. The lab aims to demonstrate how IWHI simplifies integration complexity and accelerates time-to-value for businesses.  
   
 ## Hands-On PDF  
-- [https://ibm.seismic.com/Link/Content/DC78JHhBD6qWX8MWDp77WThJqVhd](https://ibm.seismic.com/Link/Content/DC78JHhBD6qWX8MWDp77WThJqVhd)  
+- [https://ibm.seismic.com/Link/Content/DC78JHhBD6qWX8MWDp77WThJqVhd](https://ibm.seismic.com/Link/Content/DC78JHhBD6qWX8MWDp77WThJqVhd) 
+## IWHI Hands-On Tenant 
+Access with IBMid only:
+- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/ 
   
 ## Use Case   
 * **Business problem:** Enable rapid, low‑code publication of curated AI press releases as a managed REST API, allowing business teams to consume timely news without custom development delays.  

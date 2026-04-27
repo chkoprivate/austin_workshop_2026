@@ -6,6 +6,9 @@ This lab demonstrates how to make existing on‑premises integration services AI
   
 ## Hands-On PDF  
 - [https://ibm.seismic.com/Link/Content/DC4RJX99FTdXD8mBhpXPfBd2Rp8B](https://ibm.seismic.com/Link/Content/DC4RJX99FTdXD8mBhpXPfBd2Rp8B)  
+## IWHI Hands-On Tenant 
+Access with IBMid only:
+- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
   
 ## Use Case   
 * **Business/technical problem:** Enable AI agents to securely discover and invoke on‑premises integration functionality without modifying existing business logic.  

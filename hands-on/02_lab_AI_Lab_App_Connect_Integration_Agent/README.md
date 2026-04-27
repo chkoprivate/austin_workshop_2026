@@ -6,6 +6,10 @@ This lab guides learners through using the Integration Agent capability within I
   
 ## Hands-On PDF  
 - [https://ibm.seismic.com/Link/Content/DC76DM3R6Xfh3G2FRWQ3B6BHRQdV](https://ibm.seismic.com/Link/Content/DC76DM3R6Xfh3G2FRWQ3B6BHRQdV)  
+
+## IWHI Hands-On Tenant 
+Access with IBMid only:
+- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
   
 ## Exercise Overview  
 **Use Case (What is being implemented?)**  

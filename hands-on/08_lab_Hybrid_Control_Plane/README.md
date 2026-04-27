@@ -5,7 +5,10 @@
 This lab covers key capabilities of Hybrid Control Plane, including user management, environment management, unified runtimes, end-to-end monitoring, usage analytics, and hybrid connectivity.   
   
 ## Hands-On PDF  
-- [https://ibm.seismic.com/Link/Content/DC3WBFqPbGmMM8hXpXffQpF2cChd](https://ibm.seismic.com/Link/Content/DC3WBFqPbGmMM8hXpXffQpF2cChd)  
+- [https://ibm.seismic.com/Link/Content/DC3WBFqPbGmMM8hXpXffQpF2cChd](https://ibm.seismic.com/Link/Content/DC3WBFqPbGmMM8hXpXffQpF2cChd)
+## IWHI Hands-On Tenant 
+Access with IBMid only:
+- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
   
 ## Use Case   
 This lab demonstrates implementing a unified hybrid control plane to manage and monitor integration runtimes and APIs across cloud, on-premises, and edge environments. It addresses challenges of integration complexity, fragmentation, and limited visibility in enterprise IT landscapes. The solution showcases centralized oversight of distributed integration runtimes and APIs, enabling end-to-end monitoring, usage analytics, and federated API management to streamline operations and improve governance.  

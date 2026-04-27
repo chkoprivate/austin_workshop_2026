@@ -6,7 +6,11 @@ This lab guides learners through building a hybrid integration scenario using IB
   
 ## Hands-On PDF  
 - [https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V](https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V)  
-  
+
+## IWHI Hands-On Tenant 
+Access with IBMid only:
+- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/  
+
 ## Use Case  
 * The lab solves the problem of converting incoming order messages into shipment records enriched with customer address information and returning shipment details immediately.  
 * It represents a real-world e-commerce or order fulfillment scenario where an external system submits an order and expects a shipment confirmation with enriched data.  
