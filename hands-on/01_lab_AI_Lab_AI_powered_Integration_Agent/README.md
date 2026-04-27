@@ -6,6 +6,10 @@ This lab demonstrates how to use an AI-powered integration agent to quickly crea
   
 ## Hands-On PDF  
 - [https://ibm.seismic.com/Link/Content/DCmDH2pJ7D7m78CRFfP4fVC2D26j](https://ibm.seismic.com/Link/Content/DCmDH2pJ7D7m78CRFfP4fVC2D26j)  
+
+## IWHI Hands-On Tenant 
+Access with IBMid only:
+- https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
 ##   
 ## Use Case (What is being implemented?)  
   
