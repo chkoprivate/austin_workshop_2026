@@ -35,17 +35,16 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 ## Solution Design
 - [Presentation](https://ibm.seismic.com/Link/Content/DCqBJC7GcHdF68mDWjV8D4qq7Jmj)
 ### Solution Dokuments
-- [Scenario 1 - ZillaForge Manufacturer](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
+- [Scenario 1 - ZillaForge Manufacturer](https://ibm.seismic.com/Link/Content/DCWWQTmJjg2gF8QHC6mbdq7D8MDP)
 - [Scenario 2 - ABW Bank](https://ibm.seismic.com/Link/Content/DC7hmgdfQDb2g8CXBdmRFqFqpMpP)
 - [Scenario 3 - Focus Store](https://ibm.seismic.com/Link/Content/DC6p8DmB7p27b8fJdcTbgVTq9GDd)
-- [Template](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
+- [Solution Design Template](https://ibm.seismic.com/Link/Content/DCHP3FdBTXdF4Gf27FGP9GDBFJ43)
 
 # Objectives
 By attending these lectures, participants will:
-- Understand IWHI vision, strategy, and positioning.
+- Understand IWHI as a platform.
 - Learn about IWHI architecture and typical use cases.
 - Explore AI capabilities within IWHI.
-- Gain techniques for effective demos and audience engagement.
 - Be introduced to the unified experience and hybrid control plane concepts.
 
 # Presenters
@@ -53,7 +52,7 @@ By attending these lectures, participants will:
 - Matthew Barnes
 - Jiri de Jagere
 - Tom Campbell
-- Joel Ramirez Gomez
+- Joel Gomez Ramirez
 - Maik Szmatulewicz
 - Christian Kopecki
 
