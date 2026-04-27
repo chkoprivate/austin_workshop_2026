@@ -14,8 +14,8 @@
 # --- Configuration (EDIT THESE VALUES) ------------------------------
 
 IS_BASE_URL="http://localhost:5555"
-CLIENT_ID="2e6d82a8411641edac89da5d435cf63e"
-CLIENT_SECRET="f49a85b91ed440afa6b82683bb1beadb"
+CLIENT_ID="<YOUR CLIENT_ID>"
+CLIENT_SECRET="<YOUR CLIENT_SECRET>"
 SCOPES="customer:read wxmcp.server"
 
 # -------------------------------------------------------------------
