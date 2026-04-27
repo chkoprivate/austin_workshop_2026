@@ -1,6 +1,6 @@
 # Lab 9 - IWHI:  End-to-End Monitoring  
   
-#Austin** #Hands-On #appIntegration **  
+#Austin #Hands-On #appIntegration
   
 This lab provides a step-by-step hands-on experience with IBM webMethods Integration, focusing on end-to-end monitoring, building robust workflows, and Flow services.   
   
