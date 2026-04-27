@@ -47,7 +47,7 @@ By attending these lectures, participants will:
 - Matthew Barnes
 - Jiri de Jagere
 - Tom Campbell
-- Joel Gomez
+- Joel Ramirez Gomez
 - Maik Szmatulewicz
 - Christian Kopecki
 
