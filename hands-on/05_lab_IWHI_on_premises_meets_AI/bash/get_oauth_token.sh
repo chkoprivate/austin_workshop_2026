@@ -33,4 +33,3 @@ echo
 echo
 echo "If an access_token is returned, copy it and use it as:"
 echo "Authorization: Bearer <access_token>"
-``
