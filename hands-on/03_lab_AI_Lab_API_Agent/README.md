@@ -9,8 +9,7 @@ This lab demonstrates an AI-driven API development workflow: using an agent (API
 
 ## IWHI Hands-On Tenant 
 Access with IBMid only:
-- [https://api-manager.trial.apiconnect.automation.ibm.com/manager/techsales/((https://api-manager.trial.apiconnect.automation.ibm.com/manager/techsales/)
-
+- [https://api-manager.trial.apiconnect.automation.ibm.com/manager/techsales/
 
 ## Click-through Demo
 - https://demo-now.techzone.ibm.com/psl/2is0l4g
