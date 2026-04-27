@@ -9,7 +9,7 @@ Navigate directly to each hands-on lab:
 - [Lab 2 – App Connect Integration Agent](02_lab_AI_Lab_App_Connect_Integration_Agent/README.md)  
 - [Lab 3 – API Agent lab](03_lab_AI_Lab_API_Agent/README.md)  
 - [Lab 4 – Flow and Workflow Programming](04_lab_Flow_and_Workflow_Programming/README.md)  
-- [Lab 5 – IWHI On-Premises Meets AI](05_lab_IWHI_on_premises_meets_AI/)  
+- [Lab 5 – On-Premises Meets AI](05_lab_IWHI_on_premises_meets_AI/)  
 - [Lab 6 – Unified Experience API Programming](06_lab_Unified_Experience_API_Programming/)  
 - [Lab 7 – Unified Experience Event Automation](07_lab_Unified_Experience_Event_Automation/README.md)  
 - [Lab 8 – Hybrid Control Plane](08_lab_Hybrid_Control_Plane/README.md)  
