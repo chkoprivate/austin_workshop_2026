@@ -11,7 +11,7 @@ This lab demonstrates how to use an AI-powered integration agent to quickly crea
 Access with IBMid only:
 - https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
 
-## Click-trough Demo
+## Click-through Demo
 - https://demo-now.techzone.ibm.com/psl/d3am0atv
 
 ##   

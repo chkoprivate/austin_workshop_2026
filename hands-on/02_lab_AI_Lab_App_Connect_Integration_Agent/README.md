@@ -11,7 +11,7 @@ This lab guides learners through using the Integration Agent capability within I
 Access with IBMid only:
 - https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/
 
-## Click-trough Demo
+## Click-through Demo
 - https://demo-now.techzone.ibm.com/psl/7br0cb7
 
 ## Exercise Overview  

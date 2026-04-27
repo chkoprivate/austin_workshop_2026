@@ -10,7 +10,7 @@ This lab demonstrates an AI-driven API development workflow: using an agent (API
 ## IWHI Hands-On Tenant 
 Access with IBMid only:
 
-## Click-trough Demo
+## Click-through Demo
 - https://demo-now.techzone.ibm.com/psl/2is0l4g
   
 ## Use Case (what is being implemented)  
