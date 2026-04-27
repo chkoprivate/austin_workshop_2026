@@ -45,6 +45,7 @@ By attending these lectures, participants will:
 # Presenters
 - Rob Tiberio
 - Matthew Barnes
+- Jiri de Jagere
 - Tom Campbell
 - Joel Gomez
 - Maik Szmatulewicz
