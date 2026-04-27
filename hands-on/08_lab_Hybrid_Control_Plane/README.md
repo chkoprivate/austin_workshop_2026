@@ -2,10 +2,14 @@
   
 #Austin #Hands-On #appIntegration   
   
-This lab covers key capabilities of Hybrid Control Plane, including user management, environment management, unified runtimes, end-to-end monitoring, usage analytics, and hybrid connectivity.   
-  
+This lab covers key capabilities of Hybrid Control Plane, including user management, environment management, unified runtimes, end-to-end monitoring, usage analytics, and hybrid connectivity.
+
+## Introduction to Hybrid Control Plane and E2E Monitoring 
+- https://ibm.seismic.com/Link/Content/DCcppC7DVJRpbG9QQV27QQ8X4QW8
+
 ## Hands-On PDF  
 - [https://ibm.seismic.com/Link/Content/DC3WBFqPbGmMM8hXpXffQpF2cChd](https://ibm.seismic.com/Link/Content/DC3WBFqPbGmMM8hXpXffQpF2cChd)
+
 ## IWHI Hands-On Tenant 
 Access with IBMid only:
 - https://prod401913.a-vir-b1.platform.ipaas.automation.ibm.com/

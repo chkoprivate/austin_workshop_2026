@@ -3,7 +3,10 @@
 #Austin #Hands-On #appIntegration   
   
 This lab guides learners through building a hybrid integration scenario using IBM webMethods Integration (iPaaS). The exercise focuses on processing an incoming order JSON payload, enriching it with customer data, transforming it into a shipment document, and returning the shipment JSON synchronously to the caller. It demonstrates how to design Flow services and low-code Workflows that implement a synchronous webhook-triggered integration pattern.  
-  
+
+## Introduction to Unified Experience
+- https://ibm.seismic.com/Link/Content/DCcppC7DVJRpbG9QQV27QQ8X4QW8
+
 ## Hands-On PDF  
 - [https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V](https://ibm.seismic.com/Link/Content/DCQ2G8XFW9M338qHcdc7d7Q3FC9V)  
 
