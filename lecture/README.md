@@ -6,6 +6,7 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 
 ## Agenda
 - [Agenda](https://ibm.seismic.com/Link/Content/DCb462pf6FTGf8FM3hTq4HPVWPXj)
+- [Permanent MS Teams Session for chat, questions etc.](https://teams.microsoft.com/meet/280436447049292?p=CvoxPfa8yCWEPKpsm7)
 
 ## Platform Overview
 - [Presentation](https://ibm.seismic.com/Link/Content/DCGfWBX836VTX8FHJ2BPBQgh2Rm8)
