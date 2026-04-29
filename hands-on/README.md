@@ -39,14 +39,12 @@ To earn your badges go through the quizzes and complete the following L4 courses
 
 ## Wrap-UP 
 ### Hybrid Integration L4 Course
-For Partners
-- https://www.ibm.com/training/learning-path/webmethods-hybrid-integration-level-4-1086
-For IBM:
-- https://yourlearning.ibm.com/activity/PLAN-FE7BBED686A7
+- [IBM Training](https://www.ibm.com/training/learning-path/webmethods-hybrid-integration-level-4-1086)
+- [YourLearning](https://yourlearning.ibm.com/activity/PLAN-FE7BBED686A7)
 ### webMethods Integration Level 4
 For Partner:
-- https://www.ibm.com/training/learning-path/webmethods-integration-level-4-1014
+- [IBM Training](https://www.ibm.com/training/learning-path/webmethods-integration-level-4-1014)
 For IBM:
-- https://yourlearning.ibm.com/activity/PLAN-FE7BBED686A7
+- [YourLearning](https://yourlearning.ibm.com/activity/PLAN-FE7BBED686A7)
 
 
