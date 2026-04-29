@@ -12,7 +12,7 @@
 # -------------------------------------------------------------------
 
 curl -s -X POST "http://localhost:5555/invoke/pub.oauth:getAccessToken" \
-  -u "<YOUR CLIENT_ID>"<YOUR CLIENT_SECRET>" \
+  -u "<your client id>:<your client secret>" \
   -H "Content-Type: application/x-www-form-urlencoded" \
   -d "grant_type=client_credentials" \
   -d "scope=customer:read wxmcp.server"
