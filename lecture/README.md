@@ -19,6 +19,7 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 
 ## IWHI and AI
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
+- [DataPower Interact Gateway - Demo Walkthrough](https://ibm.seismic.com/Link/Content/DCBfJqbjVH6HJGmGR3RHGRdHmWcG)
 
 ## Demos
 - [Interactive Podcast](https://podcasts.skills.network/v2/qa/69eb99aba75e43da951d3c4f?share=3znlfomk)
