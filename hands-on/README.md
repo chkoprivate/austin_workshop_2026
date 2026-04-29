@@ -37,7 +37,7 @@ Navigate directly to each hands-on lab:
 
 To earn your badges go through the quizzes and complete the following L4 courses on YourLearning/IBM Training
 
-## Wrap-UP 
+## Wrap-Up 
 ### Hybrid Integration L4 Course
 - [IBM Training](https://www.ibm.com/training/learning-path/webmethods-hybrid-integration-level-4-1086)
 - [YourLearning](https://yourlearning.ibm.com/activity/PLAN-FE7BBED686A7)
