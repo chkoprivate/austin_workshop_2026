@@ -6,6 +6,7 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 
 ## Agenda
 - [Agenda](https://ibm.seismic.com/Link/Content/DCb462pf6FTGf8FM3hTq4HPVWPXj)
+- [Permanent MS Teams Session for chat, questions etc.](https://teams.microsoft.com/meet/280436447049292?p=CvoxPfa8yCWEPKpsm7)
 
 ## Platform Overview
 - [Presentation](https://ibm.seismic.com/Link/Content/DCGfWBX836VTX8FHJ2BPBQgh2Rm8)
@@ -18,6 +19,7 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 
 ## IWHI and AI
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
+- [DataPower Interact Gateway - Demo Walkthrough](https://ibm.seismic.com/Link/Content/DCBfJqbjVH6HJGmGR3RHGRdHmWcG)
 
 ## Demos
 - [Interactive Podcast](https://podcasts.skills.network/v2/qa/69eb99aba75e43da951d3c4f?share=3znlfomk)
@@ -34,7 +36,8 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 
 ## Solution Design
 - [Presentation](https://ibm.seismic.com/Link/Content/DCqBJC7GcHdF68mDWjV8D4qq7Jmj)
-### Solution Dokuments
+### Solution Documents
+- [PoX Best Practice Overview](https://ibm.seismic.com/Link/Content/DC4Cb7CQb3pBP8QXm9pFqphHM9P3)
 - [Scenario 1 - ZillaForge Manufacturer](https://ibm.seismic.com/Link/Content/DCWWQTmJjg2gF8QHC6mbdq7D8MDP)
 - [Scenario 2 - ABW Bank](https://ibm.seismic.com/Link/Content/DC7hmgdfQDb2g8CXBdmRFqFqpMpP)
 - [Scenario 3 - Focus Store](https://ibm.seismic.com/Link/Content/DC6p8DmB7p27b8fJdcTbgVTq9GDd)
