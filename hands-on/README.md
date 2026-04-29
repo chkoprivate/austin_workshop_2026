@@ -17,7 +17,7 @@ Navigate directly to each hands-on lab:
 - [Lab 10 – Observability Agent (AI Lab)](10_lab_AI_Lab_Observability_Agent/)  
 ⸻  
   
-By completing these labs, you will learn how to:  
+## By completing these labs, you will learn how to:  
   
 - Leverage AI Agents to build seamless API-driven Integration solutions  
 - Design low-code integration Flows and Workflows including ServiceDesigner  
@@ -28,9 +28,25 @@ By completing these labs, you will learn how to:
 - Apply best practices for scalable and maintainable integration solutions  
 ⸻  
   
-Before starting the labs, ensure you have:  
+## Before starting the labs, ensure you have:  
   
 - Fundamental knowledge of integration concepts (APIs, messaging, data transformation)  
 - Basic familiarity with cloud and hybrid architectures  
 - Access to an IBM webMethods Hybrid Integration environment  
 - A modern web browser and reliable internet access  
+
+To earn your badges go through the quizzes and complete the following L4 courses on YourLearning/IBM Training
+
+## Wrap-UP 
+### Hybrid Integration L4 Course
+For Partners
+- https://www.ibm.com/training/learning-path/webmethods-hybrid-integration-level-4-1086
+For IBM:
+- https://yourlearning.ibm.com/activity/PLAN-FE7BBED686A7
+### webMethods Integration Level 4
+For Partner:
+- https://www.ibm.com/training/learning-path/webmethods-integration-level-4-1014
+For IBM:
+- https://yourlearning.ibm.com/activity/PLAN-FE7BBED686A7
+
+
