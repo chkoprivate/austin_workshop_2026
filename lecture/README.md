@@ -10,15 +10,19 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 
 ## Platform Overview
 - [Presentation](https://ibm.seismic.com/Link/Content/DCGfWBX836VTX8FHJ2BPBQgh2Rm8)
+- [Session Recording](https://ibm.seismic.com/Link/Content/DC8hjD7W8GmQJ8MTjpcpfQD2fmf8)
 
 ## Architecture
 - [Presentation](https://ibm.seismic.com/Link/Content/DCbqPBbH8h2TBGHXbGjQV7dfhFVG)
-
+- [Session Recording](https://ibm.seismic.com/Link/Content/DCVBXg39TgBCHG7XC4RJ74XjFXjd)
+  
 ## Use Cases
 - [Presentation](https://ibm.seismic.com/Link/Content/DCR8Q3JTFHTpf8hWj9hGWCbT6mTP)
+- [Session Recording](https://ibm.seismic.com/Link/Content/DC2RVTBGX7Cb4GqPDq3JhQWVXRfd)
 
 ## IWHI and AI
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
+- [Session Recording](https://ibm.seismic.com/Link/Content/DCCMTjqMjcWVgGMXC2PHQM6T2G2B)
 - [DataPower Interact Gateway - Demo Walkthrough](https://ibm.seismic.com/Link/Content/DCBfJqbjVH6HJGmGR3RHGRdHmWcG)
 
 ## Demos
