@@ -2,6 +2,16 @@
   
 Welcome to the Lecture section of the Austin Workshop 2026 repository. This README covers the lecture sessions that provide foundational knowledge, platform overviews, architecture, and strategic insights into IBM webMethods Hybrid Integration (IWHI). These lectures prepare participants for the hands-on labs by providing context, vision, and technical understanding.
 
+# IBM TechCon 2026 - On demand content available
+
+## Useful links
+- [TechCon Home Page](https://livesend.ibm.com/ls/527f279d-a11e-4959-8d26-6cb5ffa1b669/yVeU5CpF8vT8Jhfk#/)
+- [Registration Page (Reg required to access playbacks)](https://www.ibm.com/events/reg/flow/ibm/l2ma0vmb/landing/page/landing)
+- [Attendee Portal (Post Registration)](https://www.ibm.com/events/reg/flow/ibm/l2ma0vmb/attendee-portal/page/attendee-portal)
+
+## API Connent v12.1
+- [TechCon 2026: API Connect v12.1 - What’s New?](https://ibm.seismic.com/Link/Content/DCqFQTWcMWPpT8HT6RPgCJGfhd73)
+
 # Lecture Topics
 
 ## Agenda
@@ -10,15 +20,19 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 
 ## Platform Overview
 - [Presentation](https://ibm.seismic.com/Link/Content/DCGfWBX836VTX8FHJ2BPBQgh2Rm8)
+- [Session Recording](https://ibm.seismic.com/Link/Content/DC8hjD7W8GmQJ8MTjpcpfQD2fmf8)
 
 ## Architecture
 - [Presentation](https://ibm.seismic.com/Link/Content/DCbqPBbH8h2TBGHXbGjQV7dfhFVG)
-
+- [Session Recording](https://ibm.seismic.com/Link/Content/DCVBXg39TgBCHG7XC4RJ74XjFXjd)
+  
 ## Use Cases
 - [Presentation](https://ibm.seismic.com/Link/Content/DCR8Q3JTFHTpf8hWj9hGWCbT6mTP)
+- [Session Recording](https://ibm.seismic.com/Link/Content/DC2RVTBGX7Cb4GqPDq3JhQWVXRfd)
 
 ## IWHI and AI
 - [Presentation](https://ibm.seismic.com/Link/Content/DCq3jgHQ8Fg4dGqMJ2jff6X4dm8d)
+- [Session Recording](https://ibm.seismic.com/Link/Content/DCCMTjqMjcWVgGMXC2PHQM6T2G2B)
 - [DataPower Interact Gateway - Demo Walkthrough](https://ibm.seismic.com/Link/Content/DCBfJqbjVH6HJGmGR3RHGRdHmWcG)
 
 ## Demos
