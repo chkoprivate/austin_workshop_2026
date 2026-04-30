@@ -9,7 +9,7 @@ Welcome to the Lecture section of the Austin Workshop 2026 repository. This READ
 - [Registration Page (Reg required to access playbacks)](https://www.ibm.com/events/reg/flow/ibm/l2ma0vmb/landing/page/landing)
 - [Attendee Portal (Post Registration)](https://www.ibm.com/events/reg/flow/ibm/l2ma0vmb/attendee-portal/page/attendee-portal)
 
-## Useful links
+## API Connent v12.1
 - [TechCon 2026: API Connect v12.1 - What’s New?](https://ibm.seismic.com/Link/Content/DCqFQTWcMWPpT8HT6RPgCJGfhd73)
 
 # Lecture Topics
