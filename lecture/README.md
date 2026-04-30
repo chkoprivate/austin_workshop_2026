@@ -2,6 +2,16 @@
   
 Welcome to the Lecture section of the Austin Workshop 2026 repository. This README covers the lecture sessions that provide foundational knowledge, platform overviews, architecture, and strategic insights into IBM webMethods Hybrid Integration (IWHI). These lectures prepare participants for the hands-on labs by providing context, vision, and technical understanding.
 
+# IBM TechCon 2026 - On demand content available
+
+## Useful links
+- [TechCon Home Page](https://livesend.ibm.com/ls/527f279d-a11e-4959-8d26-6cb5ffa1b669/yVeU5CpF8vT8Jhfk#/)
+- [Registration Page (Reg required to access playbacks)](https://www.ibm.com/events/reg/flow/ibm/l2ma0vmb/landing/page/landing)
+- [Attendee Portal (Post Registration)](https://www.ibm.com/events/reg/flow/ibm/l2ma0vmb/attendee-portal/page/attendee-portal)
+
+## Useful links
+- [TechCon 2026: API Connect v12.1 - What’s New?](https://ibm.seismic.com/Link/Content/DCqFQTWcMWPpT8HT6RPgCJGfhd73)
+
 # Lecture Topics
 
 ## Agenda
